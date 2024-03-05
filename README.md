@@ -2,6 +2,7 @@ branch1 changes here!
 Some more changes for this branch ^^
 Last change for branch1!
 We need more commits!
+And we still need some info!
 # free-for.dev
 
 Developers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.
